@@ -1,12 +1,3 @@
-
-
-CustomTShirt
-============
-
-Simple Custom t-shirt editor using Fabric.js. 
-
-Forked from: http://tshirts.imomin.com/
-
 MIT License
 
 Copyright (c) 2018 Kumar Priyansh
@@ -28,25 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Demo:
-
-![demo gif](https://raw.githubusercontent.com/luciferreeves/CustomTShirt/master/demo.gif)
-
-
-
-
-
-
-
-
-
-**What's Different from Imomin's Version?**
-
-There are changes made in the **index.html** file.
-
-This script now only works for Customizing T-Shirts and not Phone Cases.
-
-**For Some Reasons This Code is not working from Github Pages but works Locally.**
-
-**To Use this code please clone the repository ot download the .zip file**
